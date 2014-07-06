@@ -1,3 +1,2 @@
 #!/usr/bin/env bash
-
-sudo apt-get install -y ntp
+apt-get install -y ntp
